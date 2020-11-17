@@ -2,21 +2,24 @@
 
 <p align="center">
   <samp>
-    I'm a tech enthusiast who is passionate about making open-source more accessible, learning and sharing my knowledge with others as publicly as possible 🎯. Some technologies I currently passionate to learning include NodeJS (Express) 💖. I also passionate about UI/UX Design 🚀.
+    I'm a tech enthusiast who is passionate about making open-source more
+    accessible, learning and sharing my knowledge with others as publicly as
+    possible 🎯. Some technologies I currently passionate to learning include
+    NodeJS (Express) 💖. I also passionate about UI/UX Design 🚀.
   </samp>
 </p>
-<!--
+
 ### My resume 
 
 <a title="Resume" href="https://fawazalrasyid.xyz/">
   <img align="left" alt="logo" height="21px" src="https://img.shields.io/badge/Resume-grey?logo=appveyor&style=flat-square" />
 </a>
 <br>
--->
 
-### Currently learning 
 
-<!--
+### Currently learning
+
+
 <a title="Javascript ES6" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/es6.png" />
 </a>
@@ -29,17 +32,34 @@
 <a title="MySQL" href="https://mariadb.org/">
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/mysqll.png" />
 </a>
--->
+
 <a title="ExpressJS" href="https://expressjs.com">
-  <img align="left" alt="logo" width="23px" height="23px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png" />
+  <img
+    align="left"
+    alt="logo"
+    width="23px"
+    height="23px"
+    src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/express.png"
+  />
 </a>
 <a title="Wordpress" href="https://wordpress.org">
-  <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/wordpress.png" />
+  <img
+    align="left"
+    alt="logo"
+    width="21px"
+    src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/wordpress.png"
+  />
 </a>
 <a title="UI Design" href="https://design.google/">
-  <img align="left" alt="logo" width="21px" height="18px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/uii.png" />
+  <img
+    align="left"
+    alt="logo"
+    width="21px"
+    height="18px"
+    src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/uii.png"
+  />
 </a>
-<!--
+
 <a title="VueJS" href="http://vuejs.org">
   <img align="left" alt="logo" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vue.png" />
 </a>
@@ -49,10 +69,10 @@
 <a title="Kotlin" https://kotlinlang.org/">
   <img align="left" alt="logo" width="18px" height="18px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/kotlin.png" />
 </a>
--->
-<br>
 
-<!--
+<br />
+
+
 ### Some technology I have worked with 
 <a title="Bootstrap" href="https://getbootstrap.com/">
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/bootstrap.png" />
@@ -76,51 +96,82 @@
   <img align="left" alt="tools" height="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/sqlite.png" />
 </a>
 <br>
--->
 
-### Tools I use 
+
+### Tools I use
 
 <a title="Visual Studio Code" href="https://code.visualstudio.com/">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vscode.png" />
+  <img
+    align="left"
+    alt="tools"
+    width="21px"
+    src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/vscode.png"
+  />
 </a>
-<!--
+
 <a title="Terminal" href="https://github.com/topics/terminal">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/terminal.png" />
 </a>
 <a title="Android Studio" href="https://developer.android.com/studio">
   <img align="left" alt="tools" width="24px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/android.png" />
 </a>
--->
+
 <a title="Github Desktop" href="https://desktop.github.com/">
-  <img align="left" alt="tools" width="24px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/githubdesktop.png" />
+  <img
+    align="left"
+    alt="tools"
+    width="24px"
+    src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/githubdesktop.png"
+  />
 </a>
-<!--
+
 <a title="Pycharm" href="https://www.jetbrains.com/pycharm/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/pycharm.png" />
 </a>
--->
+
 <a title="Figma" href="https://www.figma.com/">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/figma.png" />
+  <img
+    align="left"
+    alt="tools"
+    width="21px"
+    src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/figma.png"
+  />
 </a>
-<!--
+
 <a title="Intellij Idea" href="https://www.jetbrains.com/idea/">
   <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/intellij.png" />
 </a>
--->
+
 <a title="Postman" href="https://www.postman.com/">
-  <img align="left" alt="tools" width="21px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/postman.png" />
+  <img
+    align="left"
+    alt="tools"
+    width="21px"
+    src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/postman.png"
+  />
 </a>
-<br>
-  
+<br />
+
 ### Contribution
 
 <a title="Hacktoberfest 2019" href="https://dev.to/wahidari">
-  <img align="left" alt="logo" width="26px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/hacktoberfest.png" />
+  <img
+    align="left"
+    alt="logo"
+    width="26px"
+    src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/hacktoberfest.png"
+  />
 </a>
 <a title="Hacktoberfest 2020" href="https://dev.to/wahidari">
-  <img align="left" alt="logo" width="26px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/hacktoberfest2020.png" />
+  <img
+    align="left"
+    alt="logo"
+    width="26px"
+    src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/hacktoberfest2020.png"
+  />
 </a>
-<br>
+<br /> -->
+
 
 ### Find me around the web 
 You can find and get touch with me on these accounts!
