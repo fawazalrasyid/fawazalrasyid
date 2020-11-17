@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="center">
+<!-- <p align="center">
   <samp>
     I'm a tech enthusiast who is passionate about making open-source more
     accessible, learning and sharing my knowledge with others as publicly as
