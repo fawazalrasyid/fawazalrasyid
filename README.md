@@ -201,7 +201,3 @@ You can find and get touch with me on these accounts!
 <br>
 
 ![fawazalrasyid top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Clutch&langs_count=10&hide=java,html,css&hide_borders=true&layout=compact)
-
-<br>
-
-![fawazalrasyid wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2Clutch&layout=compact&hide_progress=true)
