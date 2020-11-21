@@ -200,4 +200,4 @@ You can find and get touch with me on these accounts!
 
 <br>
 
-![fawazalrasyid top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Clutch&langs_count=10&hide=java,html,css&hide_borders=true&layout=compact)
+![fawazalrasyid top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fawazalrasyid&langs_count=10&hide=java,html,css&hide_borders=true&layout=compact)
