@@ -200,4 +200,4 @@ You can find and get touch with me on these accounts!
 
 <br>
 
-![fawazalrasyid top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fawazalrasyid&hide_border=true&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true&hide_borders=true&layout=compact&hide=html,css)
+![fawazalrasyid top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fawazalrasyid&hide_border=true&title_color=0c0c0d&text_color=141414&icon_color=000&show_icons=true&hide_borders=true&layout=compact&langs_count=10&hide=html,css)
