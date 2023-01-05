@@ -13,7 +13,7 @@
 <br/>
 <br/>
 
-hi, i'm [Fawaz Al Rasyid](https://fawazalrasyid.me/), an undergraduate student of Informatics. Passionate in mobile application developing. Like learning something new and sharing knowledge to others
+hi, i'm [Fawaz Al Rasyid](https://fawazalrasyid.com/), an undergraduate student of Informatics. Passionate in mobile application developing. Like learning something new and sharing knowledge to others
 
 - 💼 any freelance work? do reach, [email](mailto:me@fawazalrasyid.com) :)
 - 💬 ask me about anything, i am happy to help;
