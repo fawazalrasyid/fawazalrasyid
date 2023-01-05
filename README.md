@@ -10,7 +10,8 @@
   <img align="left" alt="Fawaz's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
+<br/>
+<br/>
 
 hi, i'm [Fawaz Al Rasyid](https://fawazalrasyid.me/), an undergraduate student of Informatics. Passionate in mobile application developing. Like learning something new and sharing knowledge to others
 
